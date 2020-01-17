@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Conversor de Moedas
 
 Uma aplicação mobile em flutter que converte reais, dólares e euros em tempo real.
